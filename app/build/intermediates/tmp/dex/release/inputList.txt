@@ -1,0 +1,2 @@
+D:\00_Archisys_proects\Android\VIZAVIVA\POC\SourceCode\GraphNew\SlidingMenu\app\build\intermediates\classes\release
+D:\00_Archisys_proects\Android\VIZAVIVA\POC\SourceCode\GraphNew\SlidingMenu\app\build\intermediates\pre-dexed\release\support-v4-18.0.0-31a481cc6b66556dc1f549bf96fe15a794ef99e8.jar
